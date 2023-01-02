@@ -31,3 +31,9 @@ func main(){
 }
 
 // masih error :(
+/*
+Err Msg:
+
+# command-line-arguments
+./www.go:23:20: syntax error: unexpected : in argument list; possibly missing comma or )
+*/
