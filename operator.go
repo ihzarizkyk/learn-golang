@@ -9,11 +9,12 @@ func main(){
 		bca = abc - 100
 		abb = bca - 200
 		arr = [5]int[1,2,3,4,5]
+		lengg = len(arr)
 	)
 
 	fmt.Println(abc)
 	fmt.Println(bca)
 	fmt.Println(abb)
 	fmt.Println(abc>bca)
-	fmt.Println(arr<bca) // non-declaration statement outside function body
+	// fmt.Println(lengg<bca) // non-declaration statement outside function body
 }
